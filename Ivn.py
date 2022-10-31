@@ -1,5 +1,2 @@
 print("zzzzzz")
 
-
-print('xxxxxx')
-
